@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+
+# build output
+/dist/
+/.wrangler/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+
+# third-party source mirrors (~113MB, copyrighted) — see README
+/raw/
+
+# env
+.env*
+.vercel
