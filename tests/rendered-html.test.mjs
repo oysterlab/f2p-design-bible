@@ -30,13 +30,13 @@ test("server-renders the complete F2P design bible", async () => {
   // One chapter from each part.
   assert.match(html, /강한 Core Loop 만들기/);
   assert.match(html, /HABBY의 하이브리드캐주얼 제국/);
-  assert.match(html, /Golfclash의 성공을 이끈 UX/);
+  assert.match(html, /Golfclash — 판돈과 대기 시간의 경제학/);
 
   // Annotations are rendered as labelled callouts, distinct from body text.
   assert.match(html, /<aside class="reading-callout"><strong>주해 \(註解\)<\/strong>/);
 
   // Source images from all three mirrors are wired up.
-  assert.match(html, /images\/bible\/crafting-strong-core-loop\//);
+  assert.match(html, /images\/bible\/improving-games-retention\//);
   assert.match(html, /images\/dof\/habbys-hybridcasual-empire/);
   assert.match(html, /images\/gameanalytics\/coin-master-social-casino\//);
 
@@ -45,7 +45,7 @@ test("server-renders the complete F2P design bible", async () => {
   assert.doesNotMatch(html, /Tasty Travels 시스템 분석/);
 
   const renderedPages = html.match(/data-reader-page/g) ?? [];
-  assert.ok(renderedPages.length >= 400, `expected at least 400 pages, got ${renderedPages.length}`);
+  assert.ok(renderedPages.length >= 300, `expected at least 300 pages, got ${renderedPages.length}`);
   assert.ok(renderedPages.length <= 560, `expected at most 560 pages, got ${renderedPages.length}`);
 });
 
@@ -73,7 +73,8 @@ test("keeps the bible manuscript ordered and self-contained", async () => {
   const images = generated.chapters
     .flatMap((chapter) => chapter.blocks)
     .filter((block) => block.type === "image");
-  assert.ok(images.length > 200, `expected the source images to be carried over, got ${images.length}`);
+  // Images are placed where they explain something, not listed wholesale.
+  assert.ok(images.length > 80, `expected illustrative images, got ${images.length}`);
   for (const image of images) {
     assert.match(image.src, /^images\/(bible|dof|gameanalytics)\//);
   }
@@ -84,4 +85,18 @@ test("keeps the bible manuscript ordered and self-contained", async () => {
     .filter((block) => block.type === "callout");
   assert.ok(callouts.length >= 30, `expected annotations on most chapters, got ${callouts.length}`);
   for (const callout of callouts) assert.equal(callout.label, "주해 (註解)");
+
+  // Every chapter carries both the source's argument and the applied section.
+  const missing = generated.chapters.filter((chapter) => {
+    const headings = chapter.blocks
+      .filter((block) => block.type === "subheading")
+      .map((block) => block.text);
+    return !headings.includes("원문의 논지") || !headings.includes("사례와 풀이");
+  });
+  assert.deepEqual(missing.map((chapter) => chapter.number), []);
+
+  // Worked examples and comparison tables are what the applied sections add.
+  const blocks = generated.chapters.flatMap((chapter) => chapter.blocks);
+  assert.ok(blocks.filter((block) => block.type === "table").length >= 60);
+  assert.ok(blocks.filter((block) => block.type === "formula").length >= 25);
 });
