@@ -1097,25 +1097,27 @@ img {
   margin-top: 2rem;
 }
 
-.image-page {
-  display: flex;
-  height: 65rem;
-  flex-direction: column;
-  background: var(--ink);
+.reading-figure {
+  margin: 1.6rem 0;
+  padding: 0;
 }
 
-.image-page > img {
+.reading-figure > img {
+  display: block;
   width: 100%;
-  height: calc(100% - 7rem);
+  max-height: 26rem;
   object-fit: contain;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  background: var(--paper-deep);
 }
 
-.image-page > p {
-  margin: 1.2rem 3.4rem 0;
-  color: var(--paper);
-  font-family: var(--font-serif);
-  font-size: 0.88rem;
-  line-height: 1.7;
+.reading-figure > figcaption {
+  margin: 0.7rem 0 0;
+  color: var(--ink-muted);
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  line-height: 1.65;
 }
 
 .source-list {
@@ -1969,15 +1971,7 @@ img {
     box-shadow: none;
   }
 
-  .image-page {
-    height: auto;
-  }
-
-  .image-page > img {
-    height: auto;
-  }
-
-  .page-footer {
+      .page-footer {
     right: 1.25rem;
     bottom: 1.05rem;
     left: 1.25rem;

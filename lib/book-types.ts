@@ -119,7 +119,6 @@ export type ReaderPage = {
     | "chapter-title"
     | "reading"
     | "visual"
-    | "image"
     | "sources";
   partId?: string;
   chapterId?: string;

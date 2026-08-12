@@ -9,22 +9,23 @@ const here = dirname(fileURLToPath(import.meta.url));
 const books = {
   "f2p-design-bible": {
     contentDirectory: "../content/chapters",
-    // 31 chapters plus the source images; each image renders as its own page.
-    pageCeiling: 560,
+    // 49 chapters. Figures flow inline with the text rather than taking a page
+    // each, which is what keeps the book near six hundred pages.
+    pageCeiling: 640,
     sitePath: "/f2p-design-bible/",
     metadata: {
       title: "모바일 F2P 게임 디자인 바이블",
       subtitle: "Mobile Free To Play · Deconstructor of Fun · GameAnalytics 번역 선집",
       description:
-        "Mobile Free To Play의 F2P 바이블 15장, Deconstructor of Fun의 HABBY 분석, GameAnalytics의 게임 해체분석 15편을 원문 그대로 옮기고 주해를 붙인 한국어 웹 ebook.",
+        "Mobile Free To Play의 F2P 바이블 15장, Deconstructor of Fun의 HABBY 분석, GameAnalytics의 글 33편을 전문 번역하고 해석과 사례, 적용 체크리스트를 붙인 한국어 웹 ebook.",
       series: "F2P READER 01",
       footer: "F2P DESIGN BIBLE",
       edition: "WEB EDITION 1.0",
       publicationDate: "2026년 8월",
       coverEyebrow: "MOBILE F2P DESIGN BIBLE",
-      thesisTitle: "원문을 그대로 옮기고, 해석은 주해로 분리한다.",
+      thesisTitle: "원문을 전문 그대로 싣고, 해석과 사례를 그 뒤에 붙인다.",
       thesisDeck:
-        "본문은 원저자의 주장과 수치를 각색 없이 옮긴다. 옮긴이의 배경 설명과 판단은 본문에 섞지 않고 주해(註解)로 표시한다.",
+        "각 장은 원문 번역으로 시작한다. 그 뒤에 해석과 실제 사례, 자기 게임에 대입할 적용 체크리스트를 덧붙여 원문의 주장을 입체적으로 읽게 한다.",
       methodTitle: "게임의 시스템을 코어, 경제, 측정의 축으로 읽는다.",
       methodDeck:
         "ACTION과 REWARD와 PROGRESS를 먼저 나누고, 각 재화의 획득처와 소비처를 적고, 그 설계가 의도한 결과를 냈는지 확인할 지표를 정한다.",
@@ -37,7 +38,7 @@ const books = {
     },
     epilogue: {
       title: "시스템 점검표와 출처",
-      deck: "31개 장에서 반복해서 돌아온 판단 기준을 설계 점검표로 모은다.",
+      deck: "49개 장에서 반복해서 돌아온 판단 기준을 설계 점검표로 모은다.",
     },
   },
 };

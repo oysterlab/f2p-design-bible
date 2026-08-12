@@ -1,0 +1,75 @@
+# 부록. 시스템 점검표와 출처
+
+이 책의 49개 장은 서로 다른 사람이 서로 다른 시점에 쓴 글이지만, 반복해서 돌아오는 판단 기준은 몇 개로 정리된다. 여기에 그 기준을 점검표로 모았다.
+
+## Core Loop 점검
+
+제1부 {{ch:crafting-strong-core-loop}}장이 정의한 세 칸을 채우지 못하면 루프가 성립하지 않는다.
+
+| 칸 | 질문 | 비어 있을 때 나타나는 증상 |
+|---|---|---|
+| ACTION | 플레이어가 반복하는 단일 행동은 무엇인가 | 무엇을 하는 게임인지 한 문장으로 설명되지 않는다 |
+| REWARD | 그 행동은 무엇으로 보상되는가 | 플레이해도 얻는 것이 없어 세션이 짧다 |
+| PROGRESS | 그 보상은 어떤 영구 상태로 바뀌는가 | 판이 끝나면 초기화되어 다음 날 돌아올 이유가 없다 |
+
+{{ch:six-games-that-successfully-layer-in-meta-mechanics}}장의 여섯 게임이 공통으로 한 일은 세 번째 칸을 채운 것이다. Archero의 영구 업그레이드, Match Masters의 스티커 앨범, Fish Eater.io의 머지가 모두 판과 판 사이에 남는 상태다.
+
+## 세션 설계 점검
+
+- 코어 라운드 하나가 2분 안에 끝나는가 (제1부 {{ch:creating-habit-forming-session-design}}장, Starbucks Test)
+- 긴 시간을 가진 플레이어에게도 할 일이 있는가 (Commuter Test)
+- 세션을 끊을 때 쫓아내는가 배웅하는가
+- 세션 길이를 정하는 변수를 명시했는가 — {{ch:how-stumble-guys-hit-225m-downloads}}장 Stumble Guys에서는 참가 인원 32명과 3라운드 구조였다
+
+## 경제 점검
+
+- 각 재화의 획득처와 소비처를 모두 적었는가
+- 재화가 하나뿐이라면 보상의 종류를 늘릴 방법이 있는가 ({{ch:crack-the-match-3-code-part-2}}장의 Candy Crush 진단)
+- 보상에 희귀도나 다중 재화가 없으면, 메타 기능을 늘릴수록 보상 가치가 희석된다
+- 소비처를 새로 만드는 가장 단순한 방법은 참가비다 ({{ch:how-tennis-clash-scored-a-golden-set}}장 Tennis Clash의 코인 베팅)
+- 지금 잔액으로 살 수 있는 선택지가 항상 둘 이상인가
+
+## Retention 진단
+
+제1부 {{ch:improving-games-retention}}장의 네 층은 어디를 손볼지 정하는 도구다.
+
+| 증상 | 의심할 층 |
+|---|---|
+| D1이 낮다 | 튜토리얼과 온보딩, 또는 코어 자체 |
+| D7 이후가 급락한다 | Core Loop |
+| D30이 없다 | 메타, 장기 목표의 부재 |
+| 초기 지표만 좋고 곡선이 눕지 않는다 | 프로덕션 밸류로 초기만 방어하고 있다 |
+
+{{ch:how-noor-games-reached-a-d1-retention-of-62-with-the-game-lumbercraft}}장의 Lumbercraft는 D1 32%에서 62%로 올랐는데, 튜토리얼이 아니라 무엇을 반복하게 할지를 바꿔서 얻은 결과였다.
+
+## 수익화 점검
+
+- 무엇을 파는가. 시간·확률·자원·외형 중 어디에 해당하는가
+- 결제하지 않으면 얼마나 기다리거나 반복해야 하는가
+- 광고가 결제와 이탈 사이를 중재하고 있는가 ({{ch:making-money-ads}}장)
+- 이 제품에 팔 간격이 존재하기는 하는가 ({{ch:lifeline-3-minute-games-interview}}장의 반례)
+
+## 이식과 부하 점검
+
+{{ch:blog-marvel-snap-marvel-contest-cod-mobile-mass-market-hit}}장의 틀을 쓴다. 부하를 지울 것인지 덜어 낼 것인지 항목별로 정한다.
+
+- 지운 항목을 모두 지웠을 때 이것은 여전히 그 장르인가
+- 코어 이용자를 위한 되돌리기 경로(고급 설정)가 있는가
+- 세션 길이를 플랫폼에 맞춰 다시 설계했는가 ({{ch:adapting-games-for-mobile}}장)
+
+## 출시 판단
+
+{{ch:soft-launching-free-play-mobile-game}}장의 기준을 시작 전에 문서로 확정한다.
+
+| 항목 | 통과 기준 | 중단 기준 |
+|---|---|---|
+| D1 | | |
+| D7 | | |
+| CPI | | |
+| 결제 전환 | | |
+
+그리고 {{ch:creating-successful-mobile-free-play-game}}장의 부등식으로 마무리한다. `LTV > CPI`가 성립하지 않으면 나머지 점검표는 의미가 없다.
+
+## 출처
+
+본문에 실린 글의 원문과 저자는 각 부 끝의 각주에 정리했다. 번역본 전문은 저장소의 `translated/` 아래에 원문 1편당 파일 1개로 보관되어 있으며, 본문에 실린 이미지는 모두 아카이빙된 원본이다.

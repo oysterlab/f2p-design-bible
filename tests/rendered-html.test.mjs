@@ -30,10 +30,15 @@ test("server-renders the complete F2P design bible", async () => {
   // One chapter from each part.
   assert.match(html, /강한 Core Loop 만들기/);
   assert.match(html, /HABBY의 하이브리드캐주얼 제국/);
-  assert.match(html, /Golfclash — 판돈과 대기 시간의 경제학/);
+  assert.match(html, /UX 인사이트 — Golfclash의 성공을 만든 스윙/);
+  assert.match(html, /히트 캐주얼 게임의 프로토타입 단계 — Purple Diver/);
+  assert.match(html, /놀라운 게임 디자인 사례 7선/);
 
-  // Annotations are rendered as labelled callouts, distinct from body text.
-  assert.match(html, /<aside class="reading-callout"><strong>주해 \(註解\)<\/strong>/);
+  // Every chapter leads with the translation, then the three commentary sections.
+  assert.match(html, /원문<\/h3>/);
+  assert.match(html, /해석<\/h3>/);
+  assert.match(html, /사례<\/h3>/);
+  assert.match(html, /적용 체크리스트<\/h3>/);
 
   // Source images from all three mirrors are wired up.
   assert.match(html, /images\/bible\/improving-games-retention\//);
@@ -44,9 +49,13 @@ test("server-renders the complete F2P design bible", async () => {
   assert.doesNotMatch(html, /images\/tasty\//);
   assert.doesNotMatch(html, /Tasty Travels 시스템 분석/);
 
+  // Figures are inline in the reading flow, not pages of their own.
+  assert.equal((html.match(/reading-figure/g) ?? []).length, 335);
+  assert.doesNotMatch(html, /image-page/);
+
   const renderedPages = html.match(/data-reader-page/g) ?? [];
   assert.ok(renderedPages.length >= 300, `expected at least 300 pages, got ${renderedPages.length}`);
-  assert.ok(renderedPages.length <= 560, `expected at most 560 pages, got ${renderedPages.length}`);
+  assert.ok(renderedPages.length <= 640, `expected at most 640 pages, got ${renderedPages.length}`);
 });
 
 test("keeps the bible manuscript ordered and self-contained", async () => {
@@ -59,13 +68,13 @@ test("keeps the bible manuscript ordered and self-contained", async () => {
   ]);
 
   assert.equal(generated.metadata.book, "f2p-design-bible");
-  assert.equal(generated.metadata.pageCeiling, 560);
-  assert.equal(chapterFiles.length, 5);
-  assert.equal(generated.parts.length, 3);
-  assert.equal(generated.chapters.length, 31);
+  assert.equal(generated.metadata.pageCeiling, 640);
+  assert.equal(chapterFiles.length, 7);
+  assert.equal(generated.parts.length, 5);
+  assert.equal(generated.chapters.length, 49);
   assert.deepEqual(
     generated.chapters.map((chapter) => chapter.number),
-    Array.from({ length: 31 }, (_, index) => index + 1),
+    Array.from({ length: 49 }, (_, index) => index + 1),
   );
   assert.match(generator, /content\/chapters/);
 
@@ -79,24 +88,30 @@ test("keeps the bible manuscript ordered and self-contained", async () => {
     assert.match(image.src, /^images\/(bible|dof|gameanalytics)\//);
   }
 
-  // Annotations must never be silently merged into the translated body.
+  // Links the reader would otherwise strip survive as labelled callouts.
   const callouts = generated.chapters
     .flatMap((chapter) => chapter.blocks)
     .filter((block) => block.type === "callout");
-  assert.ok(callouts.length >= 30, `expected annotations on most chapters, got ${callouts.length}`);
-  for (const callout of callouts) assert.equal(callout.label, "주해 (註解)");
+  for (const callout of callouts) {
+    assert.ok(callout.label.length > 0, "callouts must keep their label");
+    assert.ok(callout.text.length > 0, "callouts must keep their text");
+  }
 
-  // Every chapter carries both the source's argument and the applied section.
+  // Every chapter leads with the translation, then the three commentary sections.
   const missing = generated.chapters.filter((chapter) => {
     const headings = chapter.blocks
       .filter((block) => block.type === "subheading")
       .map((block) => block.text);
-    return !headings.includes("원문의 논지") || !headings.includes("사례와 풀이");
+    return !["원문", "해석", "사례", "적용 체크리스트"].every((section) =>
+      headings.includes(section),
+    );
   });
   assert.deepEqual(missing.map((chapter) => chapter.number), []);
 
-  // Worked examples and comparison tables are what the applied sections add.
+  // Comparison tables and worked formulas are what the commentary sections add
+  // on top of the translation; the counts guard against them being dropped.
   const blocks = generated.chapters.flatMap((chapter) => chapter.blocks);
-  assert.ok(blocks.filter((block) => block.type === "table").length >= 60);
-  assert.ok(blocks.filter((block) => block.type === "formula").length >= 25);
+  assert.ok(blocks.filter((block) => block.type === "table").length >= 80);
+  assert.ok(blocks.filter((block) => block.type === "formula").length >= 5);
+  assert.ok(blocks.filter((block) => block.type === "image").length === 335);
 });

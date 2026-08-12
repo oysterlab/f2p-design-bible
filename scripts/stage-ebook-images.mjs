@@ -12,27 +12,12 @@ const mapPath = resolve(here, "../extracted/image-map.json");
 
 const sources = JSON.parse(await readFile(sourcesPath, "utf8"));
 
-// Chapter selection. Order here is the order chapters appear in the book.
+// Chapter selection. null = every article in the collection. The book now
+// carries the whole archive, so all three collections stage in full.
 const selection = {
-  bible: null, // null = every article, ordered by the site's own chapter number
+  bible: null,
   dof: null,
-  gameanalytics: [
-    "coin-master-social-casino",
-    "meta-features-social-casino-games",
-    "crack-the-match-3-code-part-2",
-    "three-things-mobile-game-developers-can-learn-candy-crush",
-    "golfclash-swing-success",
-    "how-tennis-clash-scored-a-golden-set",
-    "blog-marvel-snap-marvel-contest-cod-mobile-mass-market-hit",
-    "everything-you-can-learn-from-fall-guys-ultimate-knockdown",
-    "how-stumble-guys-hit-225m-downloads",
-    "pvp-modes-in-casual-games-disney-harry-potter-board-kings-love-nikki",
-    "six-games-that-successfully-layer-in-meta-mechanics",
-    "incredible-game-design-examples",
-    "key-lessons-from-developing-roller-splat-voodoo-neon-play",
-    "prototype-phases-for-hit-casual-game-purple-diver-voodoo",
-    "how-noor-games-reached-a-d1-retention-of-62-with-the-game-lumbercraft",
-  ],
+  gameanalytics: null,
 };
 
 const exists = async (path) => {

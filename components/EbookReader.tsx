@@ -132,7 +132,12 @@ function RenderBlock({ block }: { block: TextBlock }) {
     case "visual":
       return <VisualEssay visual={block.visual} description={block.description} />;
     case "image":
-      return null;
+      return (
+        <figure className="reading-figure">
+          <img src={block.src} alt={block.alt} loading="lazy" decoding="async" />
+          {block.caption ? <figcaption>{block.caption}</figcaption> : null}
+        </figure>
+      );
   }
 }
 
@@ -331,21 +336,6 @@ function VisualPage({ page, number }: { page: ReaderPage; number: number }) {
   );
 }
 
-function ImagePage({ page, number }: { page: ReaderPage; number: number }) {
-  return (
-    <article
-      className="book-page image-page"
-      id={page.id}
-      data-reader-page
-      data-page-index={number - 1}
-    >
-      <img src={page.image} alt={page.imageAlt ?? ""} />
-      {page.deck ? <p>{page.deck}</p> : null}
-      <PageFooter number={number} />
-    </article>
-  );
-}
-
 function SourcesPage({ page, number }: { page: ReaderPage; number: number }) {
   return (
     <article
@@ -401,8 +391,6 @@ function ReaderPageView({
       return <ReadingPage page={page} number={number} />;
     case "visual":
       return <VisualPage page={page} number={number} />;
-    case "image":
-      return <ImagePage page={page} number={number} />;
     case "sources":
       return <SourcesPage page={page} number={number} />;
   }

@@ -1,0 +1,3198 @@
+{
+  "generatedFrom": "extracted/sources.json",
+  "collections": {
+    "bible": {
+      "dir": "bible",
+      "articles": [
+        {
+          "slug": "getting-started-mobile-game-design",
+          "titleEn": "Getting Started in Mobile Game Design",
+          "file": "bible/getting-started-mobile-game-design.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/getting-started-mobile-game-design/index.html",
+          "words": 418,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/getting-started-in-mobile-game-design-1.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/01/how-to-start-a-new-game.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/02/mobile-game-design-stats-skill-and-luck-6.jpg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/getting-started-mobile-game-design/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-15",
+          "dateLabel": "",
+          "readMinutes": 2,
+          "order": 1,
+          "summary": "As with the mastering of any new skill or technique, you have to start somewhere . Indeed, a crash course in the basics and terminology often used by…"
+        },
+        {
+          "slug": "creating-successful-mobile-free-play-game",
+          "titleEn": "Creating a Successful Mobile Free to Play Game",
+          "file": "bible/creating-successful-mobile-free-play-game.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/creating-successful-mobile-free-play-game/index.html",
+          "words": 710,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/creating-a-successful-mobile-free-to-play-game-2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/04/gdc-2015-in-it-for-the-long-haul.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2014/12/there-are-3-ways-to-win-on-the-mobile-appstore-part-1-industry.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/01/there-are-3-ways-to-win-on-the-mobile-appstore-part-2-e1492190031252.jpg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/creating-successful-mobile-free-play-game/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-16",
+          "dateLabel": "",
+          "readMinutes": 3,
+          "order": 2,
+          "summary": "What does it take to reach the top grossing charts? This is a question every mobile developer has asked, and very few actually have the answer. There are…"
+        },
+        {
+          "slug": "free-play-gaming-market",
+          "titleEn": "The Free to Play Gaming Market",
+          "file": "bible/free-play-gaming-market.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/free-play-gaming-market/index.html",
+          "words": 374,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/the-free-to-play-gaming-market-1.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/05/after-the-gold-rush-competing-in-todays-app-store.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "The Free to Play Gaming Market",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/the-free-to-play-gaming-market-mobile-free-to-play.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/01/how-to-start-a-new-game.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/05/big-fish-small-pond-surviving-in-a-maturing-market.jpg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/free-play-gaming-market/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 2,
+          "order": 3,
+          "summary": "Every year the market changes. What worked before might not work again and what seemed like a blue ocean can all of a sudden become crowded. It’s crucial…"
+        },
+        {
+          "slug": "crafting-strong-core-loop",
+          "titleEn": "Crafting a Strong Core Loop",
+          "file": "bible/crafting-strong-core-loop.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/crafting-strong-core-loop/index.html",
+          "words": 453,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/addictive-core-gameplay-design-1.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/06/deconstructing-marvel-contest-of-champions-5.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2016/04/galaxy_of_heroes_banner-e1492179444939.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/05/deconstructing-hearthstone-by-blizzard-3.jpg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/crafting-strong-core-loop/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 2,
+          "order": 4,
+          "summary": "The “Core Loop” was a term popularized as free to play games became more mainstream, but it's more than just a buzzword tossed around by executives. Your game…"
+        },
+        {
+          "slug": "addictive-core-gameplay-design",
+          "titleEn": "Addictive Core Gameplay Design",
+          "file": "bible/addictive-core-gameplay-design.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/addictive-core-gameplay-design/index.html",
+          "words": 708,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/addictive-core-gameplay-design-3.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Addictive Core Gameplay Design 1",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/addictive-core-gameplay-design-mobile-free-to-play-2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/02/mobile-game-design-stats-skill-and-luck-6.jpg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/addictive-core-gameplay-design/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 3,
+          "order": 5,
+          "summary": "Developing and designing games revolves around finding a unique core action one that, hopefully, people enjoy. However, crafting a core experience is one of the most difficult parts…"
+        },
+        {
+          "slug": "creating-habit-forming-session-design",
+          "titleEn": "Creating Habit-Forming Session Design",
+          "file": "bible/creating-habit-forming-session-design.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/creating-habit-forming-session-design/index.html",
+          "words": 408,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/creating-habit-forming-session-design-1.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2014/08/mobile-session-design-easy-in-easy-out-design-retention.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2014/11/mobile-session-design-player-commitment-design-retention.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2014/11/mobile-session-design-deal-hunting-design-retention-11.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2014/11/mobile-session-design-flexible-sessions-design-retention.jpg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/creating-habit-forming-session-design/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 2,
+          "order": 6,
+          "summary": "Successful free to play game design revolves around your game’s ability to keep people engaged, encouraging them to come back time and again. As such, session design looks…"
+        },
+        {
+          "slug": "improving-games-retention",
+          "titleEn": "Improving your Game’s Retention",
+          "file": "bible/improving-games-retention.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/improving-games-retention/index.html",
+          "words": 482,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/improving-your-games-retention-1.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Improving your Game’s Retention",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/improving-your-games-retention-mobile-free-to-play.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/04/gdc-2015-in-it-for-the-long-haul.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2014/08/mobile-tutorials-storytelling-design-2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2014/12/mobile-free-to-play-games-that-don-t-want-you-to-play-them-deconstruction-retention.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/improving-games-retention/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 2,
+          "order": 7,
+          "summary": "Retention is a deep subject. How do you continually drive players to come back each day for a long, long time? The easy answer, is to ensure you…"
+        },
+        {
+          "slug": "building-lasting-free-play-economy",
+          "titleEn": "Building a Lasting Free to Play Economy",
+          "file": "bible/building-lasting-free-play-economy.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/building-lasting-free-play-economy/index.html",
+          "words": 497,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/building-a-lasting-free-to-play-economy-2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2016/06/mobile-monetization-101-the-first-steps.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/03/gdc-2017-on-monetization-monetization-1.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Building a Lasting Free to Play Economy",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/building-a-lasting-free-to-play-economy-mobile-free-to-play.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2016/04/galaxy_of_heroes_banner-e1492179444939.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/04/3-reasons-how-dokkan-battle-reached-1-top-grossing-uncategorised-23.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/07/uncategorised.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/06/deconstructing-marvel-contest-of-champions-5.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/building-lasting-free-play-economy/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 2,
+          "order": 8,
+          "summary": "Virtual Economy design and balancing has become one of the most important skills of a game designer over the last decade. This change of importance is because games…"
+        },
+        {
+          "slug": "design-loot-boxes-gacha-systems",
+          "titleEn": "How to Design Loot Boxes and Gacha Systems",
+          "file": "bible/design-loot-boxes-gacha-systems.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/design-loot-boxes-gacha-systems/index.html",
+          "words": 257,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/how-to-design-loot-boxes-and-gacha-systems-2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "How to Design Loot Boxes and Gacha Systems",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/how-to-design-loot-boxes-and-gacha-systems-mobile-free-to-play.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/09/how-to-design-a-gacha-system-uncategorised.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/07/uncategorised.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/06/deconstructing-marvel-contest-of-champions-5.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/04/3-reasons-how-dokkan-battle-reached-1-top-grossing-uncategorised-23.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2016/04/galaxy_of_heroes_banner-e1492179444939.jpg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/design-loot-boxes-gacha-systems/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 1,
+          "order": 9,
+          "summary": "Loot Boxes and Gacha are a very contentious form of game design. Lucrative due to their monetization potential, they’ve allowed the free to play ecosystem to flourish whether…"
+        },
+        {
+          "slug": "designing-free-play-monetization",
+          "titleEn": "Designing for Free to Play Monetization",
+          "file": "bible/designing-free-play-monetization.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/designing-free-play-monetization/index.html",
+          "words": 402,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/designing-for-free-to-play-monetization.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Designing for Free to Play Monetization",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/designing-for-free-to-play-monetization-mobile-free-to-play.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2016/06/mobile-monetization-101-the-first-steps.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/03/gdc-2017-on-monetization-monetization-1.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/11/free-to-play-monetization-making-the-first-purchase-2.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/designing-free-play-monetization/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 2,
+          "order": 10,
+          "summary": "With any free to play game, you must ensure that the core of your gameplay is focussed around a system that players can spend on. One of the…"
+        },
+        {
+          "slug": "user-experience-design-uiux-onboarding",
+          "titleEn": "User Experience Design (UI/UX) & Onboarding",
+          "file": "bible/user-experience-design-uiux-onboarding.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/user-experience-design-uiux-onboarding/index.html",
+          "words": 177,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/user-experience-design-ui-ux-onboarding-2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2014/08/touch-control-design-less-control-is-more.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2014/07/touch-control-design-ways-of-playing-on-mobile-12.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2014/07/touch-control-design-ways-of-playing-on-mobile-9.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2014/08/mobile-tutorials-storytelling-design-2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2015/02/mobile-game-design-stats-skill-and-luck-6.jpg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/user-experience-design-uiux-onboarding/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 1,
+          "order": 11,
+          "summary": "It’s important developers consider how players will interact with their product, given it can have a multiplying effect on your retention. In the words of Apple, great user…"
+        },
+        {
+          "slug": "soft-launching-free-play-mobile-game",
+          "titleEn": "(Soft) Launching a Free to Play Mobile Game",
+          "file": "bible/soft-launching-free-play-mobile-game.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/soft-launching-free-play-mobile-game/index.html",
+          "words": 518,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/soft-launching-a-free-to-play-mobile-game-2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/10/how-to-plan-and-track-events-in-mobile-games-uncategorised-1.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2016/03/soft-launches-in-2016-growth-industry.jpg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/soft-launching-free-play-mobile-game/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 2,
+          "order": 12,
+          "summary": "Soft launching a game simply means quietly launching your product on a real store, to a real audience but in a reduced set of territories. Exactly which store…"
+        },
+        {
+          "slug": "making-money-ads",
+          "titleEn": "Making Money with Ads",
+          "file": "bible/making-money-ads.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/making-money-ads/index.html",
+          "words": 488,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/making-money-with-ads-2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/03/understanding-the-value-chain-for-mobile-video-ads.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/05/4-ways-futureplay-use-mobile-video-ads-to-increase-monetization-design-monetization.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/making-money-ads/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 2,
+          "order": 13,
+          "summary": "Advertising is a great way of making money from users who are not willing to directly pay out in play. It’s a fallacy to believe that ad integrations…"
+        },
+        {
+          "slug": "mobile-game-marketing-growth",
+          "titleEn": "Mobile Game Marketing and Growth",
+          "file": "bible/mobile-game-marketing-growth.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/mobile-game-marketing-growth/index.html",
+          "words": 578,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/mobile-game-marketing-and-growth.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/mobile-game-marketing-growth/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 3,
+          "order": 14,
+          "summary": "This topic is very large and not directly the focus of this Free to Play Bible. However, as a game developer, especially a small team or solo indie…"
+        },
+        {
+          "slug": "mobile-live-operations-best-practices",
+          "titleEn": "Mobile Live Operations Best Practices",
+          "file": "bible/mobile-live-operations-best-practices.md",
+          "source": "mobilefreetoplay-bible/mobilefreetoplay.com/bible/mobile-live-operations-best-practices/index.html",
+          "words": 1053,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/mobile-live-operations-best-practices.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2016/06/mobile-monetization-101-the-first-steps.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/03/content.jpg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Mobile Live Operations Best Practices",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/12/mobile-live-operations-best-practices-mobile-free-to-play.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/mobilefreetoplay-bible/media.mobilefreetoplay.com/wp-content/uploads/2017/04/3-reasons-how-dokkan-battle-reached-1-top-grossing-uncategorised-23.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://mobilefreetoplay.com/bible/mobile-live-operations-best-practices/",
+          "site": "mobilefreetoplay.com",
+          "author": "Tom Kinniburgh",
+          "date": "2017-12-18",
+          "dateLabel": "",
+          "readMinutes": 5,
+          "order": 15,
+          "summary": "Live Ops can take a great game and allow it to thrive for decades. Having a just one game high enough in the charts, coupled with a strong…"
+        }
+      ]
+    },
+    "dof": {
+      "dir": "deconstructor-of-fun",
+      "articles": [
+        {
+          "slug": "habbys-hybridcasual-empire-the-template-that-built-a-powerhouse",
+          "titleEn": "HABBY’s Hybridcasual Empire: The Template That Built a Powerhouse",
+          "file": "deconstructor-of-fun/habbys-hybridcasual-empire-the-template-that-built-a-powerhouse.md",
+          "source": "deconstructoroffun-habby/www.deconstructoroffun.com/blog/2025/7/31/habbys-hybridcasual-empire-the-template-that-built-a-powerhouse.html",
+          "words": 1144,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/deconstructoroffun-habby/images.squarespace-cdn.com/content/v1/6983d2b9cde8d50f1d1674c7/1771378269197-T5CSXR1K4ENMGGZBQDDJ/Screenshot+2025-07-31+at+8.41.54.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/deconstructoroffun-habby/images.squarespace-cdn.com/content/v1/6983d2b9cde8d50f1d1674c7/1771378271161-IVQ89ZX167ZDOM6676UV/Screenshot+2025-07-31+at+8.41.44.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/deconstructoroffun-habby/images.squarespace-cdn.com/content/v1/6983d2b9cde8d50f1d1674c7/1771378273236-3PLG0GCA1P4MZHL7EXN2/Screenshot+2025-07-31+at+8.41.49.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/deconstructoroffun-habby/images.squarespace-cdn.com/content/v1/6983d2b9cde8d50f1d1674c7/1771378328766-9VL9CCSYCI4FKT4Z3SII/Screenshot+2025-07-31+at+8.41.49.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/deconstructoroffun-habby/images.squarespace-cdn.com/content/v1/6983d2b9cde8d50f1d1674c7/1771378389277-917KFKQQRPRR9N4EYVTA/Screenshot+2025-07-31+at+8.41.41.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.deconstructoroffun.com/blog/2025/7/31/habbys-hybridcasual-empire-the-template-that-built-a-powerhouse",
+          "site": "deconstructoroffun.com",
+          "author": "Jared Gibbons",
+          "date": "2025-07-31",
+          "dateLabel": "",
+          "readMinutes": null,
+          "order": null,
+          "summary": "During the last five years, HABBY has built one of the most effective game publishing machines in mobile. While others talk, they execute. And the results speak louder than any keynote ever could. But every model has its limits, and the cracks in HABBY’s portfolio are starting to show."
+        }
+      ]
+    },
+    "gameanalytics": {
+      "dir": "gameanalytics",
+      "articles": [
+        {
+          "slug": "10-best-digital-board-games",
+          "titleEn": "The 10 Best Digital Board Games For Your Mobile",
+          "file": "gameanalytics/10-best-digital-board-games.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/10-best-digital-board-games.html",
+          "words": 1862,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfbabb05f2c4abdb528_Board-Games-Cover-resize.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfbabb05f2c4abdb4d6_Ticket-to-Ride.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfaabb05f2c4abdb4d0_Splendor.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfaabb05f2c4abdb4c6_Carcasonne.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfaabb05f2c4abdb4ad_Forbidden-Island.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfaabb05f2c4abdb4b5_Lords-of-Waterdeep2.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfaabb05f2c4abdb4bb_Galaxy-Trucker.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfaabb05f2c4abdb4b8_Neuroshima-Hex.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 9,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfaabb05f2c4abdb4c0_Onirim.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 10,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfbabb05f2c4abdb4d3_Colt-Express.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 11,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfaabb05f2c4abdb4c3_Exploding-Kittens.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/10-best-digital-board-games",
+          "site": "gameanalytics.com",
+          "author": "Alex Sonechkina",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "In recent years board games have had a revival – the hobby is growing faster than ever and the diversity of the games on the market is truly extraordinary, and digital board games have followed. Here are some of the best board games available in a digital format that you should definitely check out."
+        },
+        {
+          "slug": "5-indie-games-released-november",
+          "titleEn": "Five Exciting Indie Games Released in November",
+          "file": "gameanalytics/5-indie-games-released-november.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/5-indie-games-released-november.html",
+          "words": 1415,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c087031936358c277ed_Wanna-Survive.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Screen grab of Wanna Survive",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c077031936358c277e4_Wanna-Survive-1024x638.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/5-indie-games-released-november",
+          "site": "gameanalytics.com",
+          "author": "Jupiter Hadley",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Another month, another games review by Jupiter Hadley. Here are her top five favourite indie titles released in November."
+        },
+        {
+          "slug": "adapting-games-for-mobile",
+          "titleEn": "From console to pocket: How to adapt your game for mobile",
+          "file": "gameanalytics/adapting-games-for-mobile.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/adapting-games-for-mobile.html",
+          "words": 1205,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c30240c898c47aa97af_rocket-league-sideswipe-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Rocket League sideswipe map",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b452c4b033072127fc2_sideswipe-map-1024x474.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Sideswipe chat function",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b462c4b033072127fd1_sideswipe-chat-1024x474.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Rocket League Sideswipe training",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c2f240c898c47aa9681_sideswipe-training-1024x474.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "Rocket League Sideswipe collectibles",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c30240c898c47aa9698_sideswipe-collectibles-1024x474.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/adapting-games-for-mobile",
+          "site": "gameanalytics.com",
+          "author": "Sarah Impey",
+          "date": "2025-10-09",
+          "dateLabel": "Last updated: Oct 09, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Adapting your game to mobile is no walk in the park. And yet, Psyonix nailed this perfectly. Here’s what we can learn from them."
+        },
+        {
+          "slug": "beasts-of-burden",
+          "titleEn": "Taking The Plunge Into Game Dev - Beasts Of Burden Interview",
+          "file": "gameanalytics/beasts-of-burden.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/beasts-of-burden.html",
+          "words": 2236,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c033ac42b5f7ad96324_bob-cover.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c023ac42b5f7ad9628e_How-does-it-work.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c033ac42b5f7ad962aa_Launch-day.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Beasts of Burden 2",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c033ac42b5f7ad9629c_Bob-research2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "Beasts of Burden 3",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c033ac42b5f7ad962a7_bob-inspiration.gif",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c023ac42b5f7ad9628b_Bob-product.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "Beasts of Burden 5",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c023ac42b5f7ad96293_Bob-research.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "Beasts of Burden 6",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c033ac42b5f7ad96299_Bob-research3.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/beasts-of-burden",
+          "site": "gameanalytics.com",
+          "author": "Sarah Impey",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "We speak to ex-ustwo developer Toke Barter, about the history of the Beasts Of Burden app, and the challenges they faced on the way."
+        },
+        {
+          "slug": "blog-marvel-snap-marvel-contest-cod-mobile-mass-market-hit",
+          "titleEn": "Marvel Snap, Marvel Contest, CoD Mobile: What makes them a mass market hit?",
+          "file": "gameanalytics/blog-marvel-snap-marvel-contest-cod-mobile-mass-market-hit.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/blog-marvel-snap-marvel-contest-cod-mobile-mass-market-hit.html",
+          "words": 2532,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c2353cf7a97b0153a69_marvel-snap-cover-image.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "App Store",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c2153cf7a97b01536ba_1672993524119-min-1024x718.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Juggling example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3acc_1673523865551-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Learning curve",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3af0_1674293002192-min-1024x508.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "Marvel Game Icon",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3bc0db1b6da65b3b5e_1674292629308-min-300x300.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "Brawler genre example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c2153cf7a97b01536e7_1673603981793-min-1024x581.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "Classic brawler",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3ad5_1673604097276.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "Controllers",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3ad2_1673534152550-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 9,
+              "alt": "Retro game",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3acf_1673534377837-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 10,
+              "alt": "Control system example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3ade_1673534417874-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 11,
+              "alt": "Controls example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b39c0db1b6da65b3ab8_1673534552932-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 12,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3aed_1673854783413-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 13,
+              "alt": "Mapping example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3ad8_1673606548458-min-1024x388.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 14,
+              "alt": "Cognitive loads example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3af6_1673606659066-min-1024x757.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 15,
+              "alt": "Cognitive loads example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3ac9_1673607716350-min-1024x515.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 16,
+              "alt": "Fitts law",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3adb_1673683503582-min-1024x426.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 17,
+              "alt": "Simple and advanced mode example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3ac3_1673683759699-min-1024x446.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 18,
+              "alt": "Settings example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c2153cf7a97b0153747_1673683933715-min-1024x577.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 19,
+              "alt": "Basic and sensitivity controls",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3bc0db1b6da65b3b9d_1673683967425-min-1024x287.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 20,
+              "alt": "Controls example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3ac6_1673684954880-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 21,
+              "alt": "Marvel snap icon",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3ac0db1b6da65b3af3_1674292851523-min-300x300.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 22,
+              "alt": "IP-based games",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3bc0db1b6da65b3d1d_1673854393934-min-1024x406.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 23,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3bc0db1b6da65b3d14_Frame-53.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 24,
+              "alt": "CCG game example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3bc0db1b6da65b3d25_1674200898513-min-1024x488.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 25,
+              "alt": "Marvel snap example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3cc0db1b6da65b3d65_1674290328911-min-1024x573.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 26,
+              "alt": "Card deck example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3cc0db1b6da65b3d52_1674290864883-min-1024x518.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 27,
+              "alt": "Attacking opponent example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3cc0db1b6da65b3d48_1674291224078-min-1024x477.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/blog-marvel-snap-marvel-contest-cod-mobile-mass-market-hit",
+          "site": "gameanalytics.com",
+          "author": "Om Tandon",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "What does the stellar mass market success of games like Marvel Snap, Marvel Contest of Champions and CoD Mobile share in common? No, it’s not just that they are all popular IP/Franchises. Find out in this guest post from Om Tandon – industry specialist, game consultant and UX Director."
+        },
+        {
+          "slug": "budget-games-top-the-charts-by-focusing-on-story",
+          "titleEn": "14 low-budget, highly successful story games",
+          "file": "gameanalytics/budget-games-top-the-charts-by-focusing-on-story.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/budget-games-top-the-charts-by-focusing-on-story.html",
+          "words": 2203,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7d5cadcadf2f451456_narrative-cover-device-6-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Horror in the darkness gameplay example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7b5cadcadf2f451266_horror-in-the-darkness-gameplay.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Horror in the darkness review",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7b5cadcadf2f451269_horror-in-the-darkness-review.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "AI dungeon gameplay example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7c5cadcadf2f4512b0_AI-dungeon-gameplay-example.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "Magium gameplay example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7b5cadcadf2f45126c_Magium-gameplay-example-1024x816.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/budget-games-top-the-charts-by-focusing-on-story",
+          "site": "gameanalytics.com",
+          "author": "Chay Hunter",
+          "date": "2025-03-17",
+          "dateLabel": "Last updated: Mar 17, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Explore budget-friendly games that prove strong narratives and player choice can drive engagement without flashy graphics."
+        },
+        {
+          "slug": "claws-of-furry-rezzed-interview-2",
+          "titleEn": "Claws of Furry - Rezzed 2018 Interview With Terahard",
+          "file": "gameanalytics/claws-of-furry-rezzed-interview-2.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/claws-of-furry-rezzed-interview-2.html",
+          "words": 1408,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bff08cfcd0865edc439_Claws-of-Furry.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfe08cfcd0865edc38e_Claws-of-Fury-1-1024x576.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfe08cfcd0865edc37e_Claws-of-Furry-3-1024x575.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfe08cfcd0865edc38b_Claws-of-Furry-6-1024x576.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/claws-of-furry-rezzed-interview-2",
+          "site": "gameanalytics.com",
+          "author": "Edward Price",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Ahead of the upcoming release of Terahard's Claws of Furry, we spoke to Director Aris Tsevrenis about the return of couch co-op games, making a rogue-like brawler, and how much easier it is for indie developers to publish onto consoles than it used to be."
+        },
+        {
+          "slug": "cloudhead-games-advice-jumping-to-vr",
+          "titleEn": "Cloudhead Games' advice on jumping into the VR Market",
+          "file": "gameanalytics/cloudhead-games-advice-jumping-to-vr.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/cloudhead-games-advice-jumping-to-vr.html",
+          "words": 1704,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c23e662ee978ac1768a_Pistol-Whip-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Pistol Whip Menu",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3e43b23f43c3c60c43_pistol-whip-menu-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Pistol Whip Social Community",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3e43b23f43c3c60c35_Pistol-whip-social-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Pistol Whip Contracts",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3e43b23f43c3c60c46_Pistol-whip-comp-min.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/cloudhead-games-advice-jumping-to-vr",
+          "site": "gameanalytics.com",
+          "author": "Chay Hunter",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "The VR and AR market is a lucrative opportunity for developers looking to switch from mobile games and flatscreen games. But how do you do it?"
+        },
+        {
+          "slug": "coin-master-social-casino",
+          "titleEn": "How Coin Master Disrupted Social Casino And Pocketed $100M",
+          "file": "gameanalytics/coin-master-social-casino.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/coin-master-social-casino.html",
+          "words": 946,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a609bbb6f03617f93d7_Casino-Master-Cover-.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5d9bbb6f03617f91a4_Casino-Master-1.1.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5d9bbb6f03617f9187_Casino-Master-1.2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5d9bbb6f03617f91a7_Casino-Master-2.11.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5d9bbb6f03617f91a1_Casino-Master-2.22.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5e9bbb6f03617f920d_Casino-Master-3.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5d9bbb6f03617f9184_Casino-Master-4.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5d9bbb6f03617f9181_Casino-Master-5.1-1024x297.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 9,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5e9bbb6f03617f91ca_Casino-Master-5.2-1024x356.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 10,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5e9bbb6f03617f9261_Casino-Master-6-1024x512.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 11,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5b9bbb6f03617f9161_Casino-Master-7.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 12,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5b9bbb6f03617f9165_Casino-Master-8.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 13,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5e9bbb6f03617f91db_Casino-Master-9.11.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 14,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5e9bbb6f03617f921b_Casino-Master-10.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 15,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5e9bbb6f03617f9210_Casino-Master-11.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 16,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5e9bbb6f03617f91eb_Casino-Master-12.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 17,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5e9bbb6f03617f925e_Casino-Master-13.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 18,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5e9bbb6f03617f91c7_Casino-Master-14.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 19,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5e9bbb6f03617f91c4_Casino-Master-15-1024x356.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 20,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5d9bbb6f03617f919e_Casino-Master-16.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 21,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5e9bbb6f03617f921e_Casino-Master-17.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 22,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5f9bbb6f03617f9371_Casino-Master-17.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 23,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5f9bbb6f03617f9375_Casino-Master-18.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/coin-master-social-casino",
+          "site": "gameanalytics.com",
+          "author": "Om Tandon",
+          "date": "2025-03-17",
+          "dateLabel": "Last updated: Mar 17, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "How Coin Master innovates social casino gaming with slots, raids, base-building, and strong social mechanics for engagement."
+        },
+        {
+          "slug": "crack-the-match-3-code-part-2",
+          "titleEn": "How to Crack the Match 3 Code?- Part 2",
+          "file": "gameanalytics/crack-the-match-3-code-part-2.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/crack-the-match-3-code-part-2.html",
+          "words": 3100,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6d85d99e93e31db159_match-3-part-2-cover.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Calssic Match 3 vs Meta Match 3",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafb1_tectonic-game-1024x637.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "match 3 games meta features",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafd3_candy-crush-events-1024x496.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "candy crush prizes",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafd6_candy-crush-rewards-1024x417.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "dopamine surge graph",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6a85d99e93e31daf8b_dopamine-surge.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "Mighty Eagle Game Example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6a85d99e93e31daf93_might-eagle.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "Match 3 games examples",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafc7_match-3-comparison-1024x226.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "Currencies vs Consumables",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafca_consumables-1024x528.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 9,
+              "alt": "Meta Ringside Graphic",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6a85d99e93e31daf8f_meta-ringside.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 10,
+              "alt": "Russian Bear Image",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31db04e_russian-bear-1024x568.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 11,
+              "alt": "Playrix description of Match 3 Games",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafae_playrix-1024x107.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 12,
+              "alt": "App Annie - Playrix spike",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6a85d99e93e31daf9d_app-annie-1024x286.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 13,
+              "alt": "Gardenscapes banner",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6a85d99e93e31daf87_gadrenscapes.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 14,
+              "alt": "Sensor Tower - Property Towers Ranking",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafd0_property-brothers-1024x601.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 15,
+              "alt": "Match 3 games examples",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafd9_match-3-games-1024x353.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 16,
+              "alt": "Sensor Tower Daily Rankings",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafcd_sensor-tower-graph-1024x495.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 17,
+              "alt": "Property Brothers TV Show",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafc4_property-brothers-ratings-1024x332.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 18,
+              "alt": "Property Brothers Demographic",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafba_property-brothers-demo-1024x340.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 19,
+              "alt": "GameRefinery Property Brothers Demographic",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafb7_player-archetypes-1024x409.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 20,
+              "alt": "Core loop",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6a85d99e93e31dafa8_match-3-meta-1010x1024.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 21,
+              "alt": "property brothers gameplay",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6b85d99e93e31dafb4_home-game-1024x249.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 22,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6c85d99e93e31db10a_interior-designs-game-1024x286.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 23,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6c85d99e93e31db100_board-stalemate.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 24,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6c85d99e93e31db112_achilles-heel.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 25,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6c85d99e93e31db11c_lilys-garden-1024x485.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 26,
+              "alt": "Match 3 games comparison",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6c85d99e93e31db12a_match-3-examples.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 27,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6c85d99e93e31db124_sensor-tower-graph-2-1024x441.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 28,
+              "alt": "Meta-loop example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6c85d99e93e31db10e_core-gameplay-1024x189.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 29,
+              "alt": "Limited time events and core loop",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6c85d99e93e31db106_limited-events-1024x542.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 30,
+              "alt": "Project Makeover",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a6c85d99e93e31db127_project-makeover-1024x1009.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/crack-the-match-3-code-part-2",
+          "site": "gameanalytics.com",
+          "author": "Om Tandon",
+          "date": "2025-03-17",
+          "dateLabel": "Last updated: Mar 17, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Explore the evolution of Match 3 games, from classic to meta, and discover key strategies for success in this competitive genre."
+        },
+        {
+          "slug": "disco-elysium-rezzed-2018-interview",
+          "titleEn": "Disco Elysium - Rezzed 2018 Interview",
+          "file": "gameanalytics/disco-elysium-rezzed-2018-interview.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/disco-elysium-rezzed-2018-interview.html",
+          "words": 2683,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5242805581bd5f7e3e_disco-elysium.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a5142805581bd5f7cc2_disco-game-flow-1024x234.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/disco-elysium-rezzed-2018-interview",
+          "site": "gameanalytics.com",
+          "author": "Edward Price",
+          "date": "2025-03-17",
+          "dateLabel": "Last updated: Mar 17, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "A deep dive into the making of Disco Elysium with lead writer Robert Kurvitz, exploring its choices, humor, and unique RPG mechanics."
+        },
+        {
+          "slug": "everything-we-know-about-sugartown",
+          "titleEn": "Exploring Sugartown: Zynga's NFT-Powered Universe",
+          "file": "gameanalytics/everything-we-know-about-sugartown.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/everything-we-know-about-sugartown.html",
+          "words": 1001,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c2bb3f16dbf66b704d0_Sugartown-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Sugartown game",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b42b6ca6e1d503aed67_sugartown-game-min-1024x576.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/everything-we-know-about-sugartown",
+          "site": "gameanalytics.com",
+          "author": "Sarah Impey",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "As Zynga releases their first Web3 game – Sugartown – we cover what we know about it and explore the implications for gaming."
+        },
+        {
+          "slug": "everything-you-can-learn-from-fall-guys-ultimate-knockdown",
+          "titleEn": "Everything You Can Learn From Fall Guys: Ultimate Knockdown",
+          "file": "gameanalytics/everything-you-can-learn-from-fall-guys-ultimate-knockdown.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/everything-you-can-learn-from-fall-guys-ultimate-knockdown.html",
+          "words": 1353,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c0ec0db1b6da65c0eed_Fall-Guys-Cover-Image.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b2b72bc1bf597c14cef_Fall-Guys-Image-2-1024x576.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b2b72bc1bf597c14cf3_Fall-Guys-Image-3.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b2b72bc1bf597c14cf7_Fall-Guys-Image-4-687x1024.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/everything-you-can-learn-from-fall-guys-ultimate-knockdown",
+          "site": "gameanalytics.com",
+          "author": "Jupiter Hadley",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Fall Guys: Ultimate Knockdown is the game everyone is talking about. But why is it so successful? And what can you learn from it? Here’s what I found."
+        },
+        {
+          "slug": "five-mobile-games-that-nailed-shifting-to-vr",
+          "titleEn": "Five mobile games that nailed shifting to VR",
+          "file": "gameanalytics/five-mobile-games-that-nailed-shifting-to-vr.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/five-mobile-games-that-nailed-shifting-to-vr.html",
+          "words": 1362,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c18a76f2689d1001ed4_VR-cover-2-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "EyePhone VR",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b33db62a45f604a2c1b_EyePhone-VR.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Space team VR example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b33db62a45f604a2c36_Space-team-example-min.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/five-mobile-games-that-nailed-shifting-to-vr",
+          "site": "gameanalytics.com",
+          "author": "Nicolas Estrem",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Virtual reality on mobile is trending. Developers are making the switch. Here are five mobile games that made the jump to VR seamlessly!"
+        },
+        {
+          "slug": "golfclash-swing-success",
+          "titleEn": "UX Insights: Golfclash's Swing To Success!",
+          "file": "gameanalytics/golfclash-swing-success.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/golfclash-swing-success.html",
+          "words": 3825,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfb2f6a89da40b55579_Golfclash.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554d2_iphone-gross-1024x471.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554cf_core-gameplay-loop.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b55514_menu-and-navigation.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554f4_progression-mechanics.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b55500_timed-chests.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554e1_guidance-and-hand-holding-1024x252.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554db_great-perfect-slice-1024x530.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 9,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554e8_landing-reticule-1024x530.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 10,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554e4_wager-per-tour-1024x315.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 11,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554fa_psychology-of-wavers-1024x582.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 12,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554f1_preferences-to-risk.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 13,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554eb_opponents-turns-1024x789.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 14,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554fd_opponent-decision-making-1024x552.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 15,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554f7_overtime-ui-1024x789.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 16,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554de_price-of-demand-1024x446.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 17,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b554ee_time-inelastic-1024x360.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 18,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa2f6a89da40b55508_prize-chest-300x247.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/golfclash-swing-success",
+          "site": "gameanalytics.com",
+          "author": "Om Tandon",
+          "date": "2026-04-29",
+          "dateLabel": "Last updated: Apr 29, 2026",
+          "readMinutes": null,
+          "order": null,
+          "summary": "For the record I don't like golf but Golfclash is a different beast as it grows on you irrespective of whether you hate or love the sport. - Hold on! Then why is Om Tandon still playing this game and, lo and behold, writing about it? Let's find out."
+        },
+        {
+          "slug": "how-noor-games-reached-a-d1-retention-of-62-with-the-game-lumbercraft",
+          "titleEn": "How Noor Games reached a D1 Retention of 62% with the Game Lumbercraft",
+          "file": "gameanalytics/how-noor-games-reached-a-d1-retention-of-62-with-the-game-lumbercraft.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/how-noor-games-reached-a-d1-retention-of-62-with-the-game-lumbercraft.html",
+          "words": 1118,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c14cba147972ceebe8a_voodoo-lumbercraft.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b2ff03a55797e3411cd_noor@2x-300x128.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c13cba147972ceebe12_lumbercraft.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b2ff03a55797e3411eb_voodoo-game-example.gif",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/how-noor-games-reached-a-d1-retention-of-62-with-the-game-lumbercraft",
+          "site": "gameanalytics.com",
+          "author": "Beth Jones",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Voodoo gives some insight into the key behind high D1 retention and the importance of building your game around the right hyper-casual game mechanic."
+        },
+        {
+          "slug": "how-stumble-guys-hit-225m-downloads",
+          "titleEn": "How Stumble Guys hit 225m downloads",
+          "file": "gameanalytics/how-stumble-guys-hit-225m-downloads.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/how-stumble-guys-hit-225m-downloads.html",
+          "words": 1226,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c1d02581f379380f6d5_stumble-guys-cover-min-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b354969fc6dd03fb360_other-game-example-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b364969fc6dd03fb3ac_other-game-example-min-1-1024x343.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Stumble Guys party example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b364969fc6dd03fb398_Stumble-guys-party-min-min-1024x474.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "Stumble guys tournament example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c1b02581f379380f5ae_Stumble-guys-tournament-min-min-1024x474.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "Stumble guys settings example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c1c02581f379380f5c6_Stumble-guys-settings-min-min-1024x474.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "Stumble guys downloads",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b364969fc6dd03fb37b_Stumble-guys-downloads.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "Stumble guys discord",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b364969fc6dd03fb3b7_Stumble-guys-discord-min-min-1024x568.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 9,
+              "alt": "Stumble guys controls",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b364969fc6dd03fb39b_Stumble-guys-gameplay-min-min-1024x474.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 10,
+              "alt": "Stumble guys rewards",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c1b02581f379380f5ab_Stumble-guys-winner-min-min-1024x474.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/how-stumble-guys-hit-225m-downloads",
+          "site": "gameanalytics.com",
+          "author": "Chay Hunter",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Stumble Guys has absolutely dominated the charts throughout the Summer. But why have millions of players flocked to the game over a year on?"
+        },
+        {
+          "slug": "how-tennis-clash-scored-a-golden-set",
+          "titleEn": "How Tennis Clash scored a golden set",
+          "file": "gameanalytics/how-tennis-clash-scored-a-golden-set.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/how-tennis-clash-scored-a-golden-set.html",
+          "words": 1175,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c285478ae1b338aa27d_tennis-clash-cover.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Tennis Clash gameplay",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3fb35b8bf10ea8382f_Tennis-clash-gameplay-min-1024x739.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Tennis clash events",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c265478ae1b338a9a8f_tennis-clan-events-min-908x1024.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Tennis Clash ad examples",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3fb35b8bf10ea837da_tennis-clash-ad-example-min-908x1024.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "Tennis Clash Mothers Day",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b3eb35b8bf10ea837c7_tennis-clash-mothers-day-min-1024x475.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/how-tennis-clash-scored-a-golden-set",
+          "site": "gameanalytics.com",
+          "author": "Sarah Impey",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "We deconstruct the world’s most popular mobile tennis game – Tennis Clash – to see how they got a grand slam."
+        },
+        {
+          "slug": "html5-games-viral-potential",
+          "titleEn": "The Viral Potential Of HTML5 Games - Black Snowflake Interview",
+          "file": "gameanalytics/html5-games-viral-potential.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/html5-games-viral-potential.html",
+          "words": 1402,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a4b8a5f66636d8f5e8f_Black-Snowflake-HTML5-Games.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a498a5f66636d8f5e02_Filipp-Karmanov.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a4a8a5f66636d8f5e51_River-Dash-HTML5-game.gif",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a498a5f66636d8f5e0c_GameMaker-HTML5.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a4a8a5f66636d8f5e34_HTML5-hurricane-game.gif",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a498a5f66636d8f5e09_Lil-Kim.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/html5-games-viral-potential",
+          "site": "gameanalytics.com",
+          "author": "Chay Hunter",
+          "date": "2025-03-17",
+          "dateLabel": "Last updated: Mar 17, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Discover why HTML5 games are gaining traction, their viral potential, and how developers leverage social platforms for growth."
+        },
+        {
+          "slug": "incredible-game-design-examples",
+          "titleEn": "7 Incredible Game Design Examples And Why They Work",
+          "file": "gameanalytics/incredible-game-design-examples.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/incredible-game-design-examples.html",
+          "words": 1914,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c03b8c0fc11eda5c162_Design-Blog-Cover.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c02b8c0fc11eda5c0ea_Voodoo.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "game design examples 3",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c02b8c0fc11eda5c0e4_iphone-png-png-iphone-png-740.gif",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c02b8c0fc11eda5c0f8_Monument-Valley.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c02b8c0fc11eda5c102_Broken-Age.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "game design examples 8",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c02b8c0fc11eda5c0ed_Machinarium-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "game design examples 9",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c02b8c0fc11eda5c0e7_reaper-game-blog-min.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/incredible-game-design-examples",
+          "site": "gameanalytics.com",
+          "author": "Sarah Impey",
+          "date": "2025-05-16",
+          "dateLabel": "Last updated: May 16, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Here’s a look at some of the most awesome game design examples, and why they’ve been so effective in capturing gamer’s attentions – and imaginations."
+        },
+        {
+          "slug": "interview-ric-cowley-pocketgamer",
+          "titleEn": "Thoughts On Mobile Gaming - An Interview With PocketGamer",
+          "file": "gameanalytics/interview-ric-cowley-pocketgamer.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/interview-ric-cowley-pocketgamer.html",
+          "words": 2653,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfb02581f379380e340_Ric-Cowley-Interview-Cover-Image-resize.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa02581f379380e2fd_herohunters2.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa02581f379380e301_arenaofvalor2.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa02581f379380e2fa_egg-inc-2-300x131.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa02581f379380e310_crazy-taxi-gazillionaire-1-300x172.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa02581f379380e30a_britneyspearsamericandream3-300x169.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa02581f379380e304_realityclash.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfa02581f379380e30d_clashroyale2-300x300.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/interview-ric-cowley-pocketgamer",
+          "site": "gameanalytics.com",
+          "author": "Edward Price",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "We speak to Ric Cowley, Editor of PocketGamer.co.uk, about the biggest trends in mobile games, what the future of the industry holds, his guide to developers to help their game get noticed by the press, and being honest about your Clash Royale Clone."
+        },
+        {
+          "slug": "key-lessons-from-developing-roller-splat-voodoo-neon-play",
+          "titleEn": "Key Lessons From Developing Roller Splat - Voodoo & Neon Play",
+          "file": "gameanalytics/key-lessons-from-developing-roller-splat-voodoo-neon-play.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/key-lessons-from-developing-roller-splat-voodoo-neon-play.html",
+          "words": 1395,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c06e2d4ebb4ebbbe8d2_roller-splat-cover.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Neon Play Team",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c05e2d4ebb4ebbbe879_neon-play-team.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Roller Splat gameplay",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c06e2d4ebb4ebbbe8a8_Voodoo-roller-splat.gif",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Roller Splat development Voodoo",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c06e2d4ebb4ebbbe8a5_Roller-splat-versions.gif",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c06e2d4ebb4ebbbe885_Voodoo-Sprint-1024x573.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/key-lessons-from-developing-roller-splat-voodoo-neon-play",
+          "site": "gameanalytics.com",
+          "author": "Alexander Shea",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Voodoo's Lead Publishing Manager, Thomas Dubreuil, shares their decision making process when working on Roller Splat, and why this title works so well."
+        },
+        {
+          "slug": "lifeline-3-minute-games-interview",
+          "titleEn": "Behind Lifeline's Success: An Interview with 3 Minute Games",
+          "file": "gameanalytics/lifeline-3-minute-games-interview.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/lifeline-3-minute-games-interview.html",
+          "words": 1506,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c2c32bbd8a56fe7e84d_lifeline-cover-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Lifeline choice example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b4261d8c34d50f71133_lifeline-choise-example-min-1024x576.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Lifeline reviews",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b4361d8c34d50f71142_lifeline-reviews-min.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/lifeline-3-minute-games-interview",
+          "site": "gameanalytics.com",
+          "author": "Sarah Impey",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Lifeline is a unique game that focuses on using your phone’s notifications to make choices throughout the day. But what made it successful?"
+        },
+        {
+          "slug": "meta-features-social-casino-games",
+          "titleEn": "Deconstructing Meta Features In Social Casino Games (With Examples)",
+          "file": "gameanalytics/meta-features-social-casino-games.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/meta-features-social-casino-games.html",
+          "words": 1975,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c05aa9a5ce20a7dd995_social-casino-cover.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Social Casino Game 1",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c04aa9a5ce20a7dd86f_social-casino-1.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Social Casino Game 2",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c04aa9a5ce20a7dd85d_social-casino-2.1-1024x697.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Social Casino Game 3",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c04aa9a5ce20a7dd884_social-casino-3-1024x473.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c04aa9a5ce20a7dd872_social-casino-4.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "Social Casino Game 5",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c04aa9a5ce20a7dd881_social-casino-5-1024x473.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "Social Casino Game 6",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c04aa9a5ce20a7dd86c_social-casino-6-1024x473.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/meta-features-social-casino-games",
+          "site": "gameanalytics.com",
+          "author": "Chay Hunter",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "We dig deep into what makes a great social casino game, and find out how studying this genres' meta features can improve your titles retention."
+        },
+        {
+          "slug": "prototype-phases-for-hit-casual-game-purple-diver-voodoo",
+          "titleEn": "Prototype Phases For A Hit Casual Game - Purple Diver",
+          "file": "gameanalytics/prototype-phases-for-hit-casual-game-purple-diver-voodoo.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/prototype-phases-for-hit-casual-game-purple-diver-voodoo.html",
+          "words": 1460,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c079303acf4428cc06c_purple-diver-cover-image.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Voodoo casual games publishing",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c069303acf4428cc006_Voodoo-Publishing.gif",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Purple Diver Voodoo 1",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c069303acf4428cc011_Voodoo-version-1-combined.gif",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Purple Diver Voodoo 2",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c059303acf4428cbfed_voodoo-comparison-min-1024x423.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "Purple Diver Voodoo 3",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c069303acf4428cc003_Voodoo-version-2-combined.gif",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "Purple Diver Voodoo 4",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c069303acf4428cbffb_Voodoo-version-3-combined.gif",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "Purple Diver Voodoo 5",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c069303acf4428cc01f_Voodoo-version-4-combined.gif",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/prototype-phases-for-hit-casual-game-purple-diver-voodoo",
+          "site": "gameanalytics.com",
+          "author": "Alexander Shea",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Publishing Manager at Voodoo, Alexander Shea, shares with us the steps they took when making Purple Diver, and what changes they made during each phase"
+        },
+        {
+          "slug": "publishing-pro-gamefam-roblox",
+          "titleEn": "Publishing Like a Pro: GameFam Spotlight",
+          "file": "gameanalytics/publishing-pro-gamefam-roblox.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/publishing-pro-gamefam-roblox.html",
+          "words": 1388,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7d9fbfd3e914c23afb_Roblox-deconstruction-article-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Roblox update example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7c9fbfd3e914c23a8e_Update-example-in-Roblox-min-1024x488.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Private servers example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7b9fbfd3e914c23996_private-servers-roblox-1024x159.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Roblox codes example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7b9fbfd3e914c23993_Roblox-codes-example.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "In game ads example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7b9fbfd3e914c239ab_in-game-ad-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "LOL Surprise example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7b9fbfd3e914c23999_LOL-Surprise.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "Roblox Game Pass Example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7b9fbfd3e914c2399c_Roblox-game-pass-example-1.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "Roblox daily rewards example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7b9fbfd3e914c239bc_daily-reward-example-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 9,
+              "alt": "Roblox description example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a7b9fbfd3e914c2399f_Roblox-description-example-1024x482.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/publishing-pro-gamefam-roblox",
+          "site": "gameanalytics.com",
+          "author": "Sean Parmenter",
+          "date": "2025-03-17",
+          "dateLabel": "Last updated: Mar 17, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Learn how top Roblox games use updates, influencers, and monetization strategies to maximize engagement and revenue."
+        },
+        {
+          "slug": "pvp-modes-in-casual-games-disney-harry-potter-board-kings-love-nikki",
+          "titleEn": "PvP Modes in Casual Games - Disney, Harry Potter, Board Kings & Love Nikki",
+          "file": "gameanalytics/pvp-modes-in-casual-games-disney-harry-potter-board-kings-love-nikki.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/pvp-modes-in-casual-games-disney-harry-potter-board-kings-love-nikki.html",
+          "words": 1280,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a63f5512df966845321_pvp-casual-games.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a62f5512df966845181_GR-PVP-1-1024x674.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "PvP modes casual games",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a62f5512df96684519c_GR-PVP-2-1024x839.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "PvP modes casual games 2",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a62f5512df9668451e2_GR-PVP-3-1024x845.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "PvP modes casual games 3",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a62f5512df966845187_GR-PVP-4-1024x441.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "PvP modes casual games 4",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a62f5512df96684517e_GR-PVP-5-1024x433.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "PvP modes casual games 5",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a60f5512df966845157_GR-PVP-6.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "PvP modes casual games 6",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a62f5512df966845184_GR-PVP-10-1024x375.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 9,
+              "alt": "PvP modes casual games 7",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a60f5512df96684514c_GR-PVP-7.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 10,
+              "alt": "PvP modes casual games 8",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a62f5512df96684518a_GR-PVP-8-1024x434.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 11,
+              "alt": "PvP modes casual games 9",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a62f5512df96684517b_GR-PVP-9-1024x517.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/pvp-modes-in-casual-games-disney-harry-potter-board-kings-love-nikki",
+          "site": "gameanalytics.com",
+          "author": "Wilhelm Voutilainen",
+          "date": "2025-03-17",
+          "dateLabel": "Last updated: Mar 17, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Discover how casual games successfully implement PvP mechanics to boost engagement, from Disney Emoji Blitz to Board Kings."
+        },
+        {
+          "slug": "reaching-2-million-dau-interview-frvr",
+          "titleEn": "From 0 to 2 Million DAU: An Interview with FRVR",
+          "file": "gameanalytics/reaching-2-million-dau-interview-frvr.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/reaching-2-million-dau-interview-frvr.html",
+          "words": 4562,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bf43a207a15e6df159a_FRVR-Interview.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Hex FRVR",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bf33a207a15e6df1518_hex-frvr.gif",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "FRVR Revenue",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bf33a207a15e6df151e_FRVR-Revenue.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Mahjong FRVR",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bf33a207a15e6df152f_mahjong-frvr.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "FRVR apprentice proram",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bf33a207a15e6df153c_frvr-gamedev-apprentice.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "FRVR on FB Instant Games",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bf33a207a15e6df151b_Facebook-Instant-Games-Partners.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "Balloon FRVR",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bf33a207a15e6df1532_balloon-frvr.gif",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/reaching-2-million-dau-interview-frvr",
+          "site": "gameanalytics.com",
+          "author": "Chay Hunter",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "It’s one thing to devote years of your life to building games. It’s another thing altogether to turn these creations into a business success, time after time. In less than 2 years FRVR has gained more than 2 million daily active users. We chat with their founder, Chris Benjaminsen, to draw light on this success."
+        },
+        {
+          "slug": "six-games-that-successfully-layer-in-meta-mechanics",
+          "titleEn": "6 games that successfully layer in meta mechanics",
+          "file": "gameanalytics/six-games-that-successfully-layer-in-meta-mechanics.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/six-games-that-successfully-layer-in-meta-mechanics.html",
+          "words": 1310,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a795ddf1fc5fe5c823e_Six-games-hybrid-casual-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Archero feature example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a785ddf1fc5fe5c81f9_Archero-feature-min-461x1024.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "Match Masters feature",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a785ddf1fc5fe5c81f5_Match-masters-feature-min-461x1024.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Gold and Goblins Feature example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a785ddf1fc5fe5c8209_gold-and-goblins-progression-min-461x1024.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "Empires and puzzle feature example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a785ddf1fc5fe5c8205_empires-puzzles-feature-min-582x1024.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "Word nut feature example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a785ddf1fc5fe5c8201_Word-nut-features-min-461x1024.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "Fish eater feature example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67d80a785ddf1fc5fe5c81fe_fish-eater-features-min-461x1024.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/six-games-that-successfully-layer-in-meta-mechanics",
+          "site": "gameanalytics.com",
+          "author": "Sarah Impey",
+          "date": "2025-03-17",
+          "dateLabel": "Last updated: Mar 17, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "See how six games boosted retention by adding meta mechanics to their simple core loops. Learn from their success!"
+        },
+        {
+          "slug": "three-things-mobile-game-developers-can-learn-candy-crush",
+          "titleEn": "3 Things Mobile Game Developers Can Learn From Candy Crush",
+          "file": "gameanalytics/three-things-mobile-game-developers-can-learn-candy-crush.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/three-things-mobile-game-developers-can-learn-candy-crush.html",
+          "words": 1012,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3be72adadf716793d447_CCSCandy-e1499097368779.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/three-things-mobile-game-developers-can-learn-candy-crush",
+          "site": "gameanalytics.com",
+          "author": "Kelly Clay",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Candy Crush Saga is not only a game of addiction, but one which also constantly has a lot of life lessons to teach game developers everywhere. Kelly Clay, Digital Communications Strategist at HasOffers, points out some of the teachings you shouldn't miss in Candy Crush."
+        },
+        {
+          "slug": "top-gamification-app-examples",
+          "titleEn": "Top gamification examples in mobile apps",
+          "file": "gameanalytics/top-gamification-app-examples.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/top-gamification-app-examples.html",
+          "words": 1321,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c1d72bc1bf597c21ee9_gamification-in-apps-cover-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "FitXR app example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b365e94325c33437612_FitXR-app-example-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "FitBit tweet example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b365e94325c33437615_FitBit-tweet-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Duolingo streak example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b365e94325c33437618_Duolingo-streak-min-1024x171.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "Strava app example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b365e94325c3343761e_Strava-app-example-min-1024x589.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "Habitica app example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b365e94325c33437642_Habitica-example-min-1024x457.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "Codecademy app example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b365e94325c3343761b_codecademy-example-min.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "Duolingo coins example",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c1c72bc1bf597c21dec_Duolingo-coins-min.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/top-gamification-app-examples",
+          "site": "gameanalytics.com",
+          "author": "Sarah Impey",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "How adding gaming elements in your apps can increase retention, session length, and engagement. With prime examples from the best."
+        },
+        {
+          "slug": "vainglory-doesnt-make-one-will",
+          "titleEn": "If Vainglory Doesn't Make it, No One Will",
+          "file": "gameanalytics/vainglory-doesnt-make-one-will.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/vainglory-doesnt-make-one-will.html",
+          "words": 3676,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bec7031936358c246dc_vaingloryblog-e1499092464325.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "characters",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3beb7031936358c246a9_characters.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 3,
+              "alt": "vainglory_ipad",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3beb7031936358c2468e_vainglory_ipad.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 4,
+              "alt": "Glaive",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3beb7031936358c246a5_Glaive.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 5,
+              "alt": "vainglory_art_hierarchy",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3beb7031936358c246a2_vainglory_art_hierarchy.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 6,
+              "alt": "Chamions__art",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3beb7031936358c2468b_Chamions__art.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 7,
+              "alt": "Hearthstone-2",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3beb7031936358c2469b_Hearthstone-2.png",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 8,
+              "alt": "vainglory art",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3beb7031936358c246b0_vainglory-art.jpeg",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/vainglory-doesnt-make-one-will",
+          "site": "gameanalytics.com",
+          "author": "Michail Katkoff",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Vainglory is without a doubt the best MOBA that has been made for touch screen devices. It's a giant fish in a very small pond that is the MOBA category on touchscreen devices. If the pond grows into an ocean it's only because of this game. We look at why it's primed to take over the Esports and gaming scene on mobile."
+        },
+        {
+          "slug": "zelda-tears-of-the-kingdom-review",
+          "titleEn": "Zelda: Tears of the Kingdom - A Masterclass in Sequel Design",
+          "file": "gameanalytics/zelda-tears-of-the-kingdom-review.md",
+          "source": "gameanalytics-deconstructions/www.gameanalytics.com/blog/zelda-tears-of-the-kingdom-review.html",
+          "words": 1930,
+          "images": [
+            {
+              "index": 1,
+              "alt": "",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3c2dd03f48c12c904338_zelda-review-min.jpeg",
+              "external": false,
+              "missing": false
+            },
+            {
+              "index": 2,
+              "alt": "Zelda YouTube Review",
+              "path": "raw/gameanalytics-deconstructions/cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3b43dc4677c6939f0013_zelda-youtube-video-review-min-e1697031526534.png",
+              "external": false,
+              "missing": false
+            }
+          ],
+          "url": "https://www.gameanalytics.com/blog/zelda-tears-of-the-kingdom-review",
+          "site": "gameanalytics.com",
+          "author": "Cristian Bercu",
+          "date": "2025-02-26",
+          "dateLabel": "Last updated: Feb 26, 2025",
+          "readMinutes": null,
+          "order": null,
+          "summary": "Exploration and curiosity have always been core to Zelda. But Tears of the Kingdom adds another tenet: Creative exploration."
+        }
+      ]
+    }
+  }
+}

@@ -26,8 +26,11 @@ const blockWeight = (block: TextBlock) => {
       return block.label.length + block.text.length + 210;
     case "formula":
       return block.code.length + 165;
-    case "visual":
     case "image":
+      // Figures flow with the text. The constant approximates the vertical space
+      // a contained image plus its caption takes on an A5 page.
+      return (block.caption?.length ?? 0) + 620;
+    case "visual":
       return Number.POSITIVE_INFINITY;
   }
 };
@@ -67,20 +70,6 @@ function paginateBlocks(
         id: `${prefix}-visual-${index}`,
         kind: "visual",
         blocks: [block],
-        ...context,
-      });
-      index += 1;
-      continue;
-    }
-
-    if (block.type === "image") {
-      flush();
-      pages.push({
-        id: `${prefix}-image-${index}`,
-        kind: "image",
-        image: block.src,
-        imageAlt: block.alt,
-        deck: block.caption,
         ...context,
       });
       index += 1;

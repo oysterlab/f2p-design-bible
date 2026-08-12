@@ -15,7 +15,11 @@
     "start": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext start",
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next --ignore-pattern docs --ignore-pattern raw",
-    "images:stage": "node scripts/stage-ebook-images.mjs && python3 scripts/compress-ebook-images.py"
+    "images:stage": "node scripts/stage-ebook-images.mjs && python3 scripts/compress-ebook-images.py",
+    "translate:prepare": "node scripts/prepare-translation.mjs",
+    "translate:check": "node scripts/check-translation.mjs",
+    "translate:index": "node scripts/build-translation-index.mjs",
+    "translate:site": "node scripts/build-translation-site.mjs"
   },
   "dependencies": {
     "lucide-react": "^1.24.0",
